@@ -1,0 +1,111 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  max-width: 1064px;
+  width: 100%;
+  margin: 0 auto;
+
+  padding: 24px 20px;
+}
+
+.nav a {
+  color: #fff;
+}
+
+.content {
+  max-width: 776px;
+  width: 100%;
+  margin: 0 auto;
+  
+  padding: 24px 20px;
+}
+
+.content p {
+  margin: 20px 0;
+}
+
+.content h1 {
+  margin-bottom: 24px;
+}
+
+.content h2 {
+  font-size: 18px;
+}
+
+.link {
+  color: #fff;
+  margin: .5rem;
+}
+
+.page {
+  margin: 3rem 3rem;
+  background: #202024;
+  color: #fff;
+  padding: 1.1rem;
+  border-radius: 5px;
+  line-height: 0;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: #c1c1c4;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+.footer a {
+  padding: .5rem 2rem;
+  border-radius: 5px;
+}
+
+.modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: #fff;
+  padding: 120px;
+  border-radius: 5px;
+  color: #222;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.closeModalButton {
+  background-color: #006E6F;
+  color: #fff;
+
+  font-size: 18px;
+  font-weight: bold;
+  
+  padding: .5rem 2rem;
+  border-radius: 5px;
+  margin-top: 1rem;
+}
+
+.button {
+  background-color: #202124;
+  color: #fff;
+
+  text-decoration: none;
+  font-size: 18px;
+  
+  padding: .5rem 2rem;
+  border-radius: 5px;
+  margin-top: 1rem;
+
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.70);
+  position: fixed;
+  inset: 0;
+}
