@@ -43,6 +43,7 @@ This project was developed with the following technologies:
 <b>
 - React
 - Next Js
+- Axe (accessibility)
 </b>
 
 <br></br>
