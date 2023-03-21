@@ -9,11 +9,11 @@
   <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<br>
+</br>
 
-<h1 align="center">
+<div align="center">
   <img alt="img" title="acessible-blog" src="img.png" width="100%" />
-</h1>
+</div>
 
 
 ## 🚀 Getting started
@@ -44,6 +44,8 @@ This project was developed with the following technologies:
 - React
 - Next Js
 </b>
+
+<br></br>
 
 ## 📄 Project
 💰 A blog with accessiblities guide by w3c.
