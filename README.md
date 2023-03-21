@@ -15,6 +15,7 @@
   <img alt="img" title="acessible-blog" src="img.png" width="100%" />
 </div>
 
+</br>
 
 ## 🚀 Getting started
 
