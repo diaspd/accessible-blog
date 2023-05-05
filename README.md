@@ -2,8 +2,6 @@
   Accessible Blog
 </h1>
 
-</br>
-
 <p align="center">
   <a href="#-Technologies"><b>Technologies</b></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;
@@ -54,7 +52,6 @@ This project was developed with the following technologies:
 
 <br></br>
 
-
-Made with ♥ by Pedro Dias. 👋 Follow me on social media! <br></br>
+Made with ♥ by Pedro Dias. 👋 Follow me on social media! </br>
 
 If you can give a little star, I appreciate it 🤩
