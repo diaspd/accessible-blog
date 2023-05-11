@@ -7,13 +7,11 @@
   <a href="#-Project"><b>Project</b></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-</br>
+---
 
 <div align="center">
   <img alt="img" title="acessible-blog" src="img.png" width="100%" />
 </div>
-
----
 
 ## 🚀 Getting started
 
