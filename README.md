@@ -13,7 +13,7 @@
   <img alt="img" title="acessible-blog" src="img.png" width="100%" />
 </div>
 
-</br>
+---
 
 ## 🚀 Getting started
 
@@ -48,7 +48,7 @@ This project was developed with the following technologies:
 <br></br>
 
 ## 📄 Project
-💰 A blog with accessiblities guide by w3c.
+💰 A blog with accessiblities guide by w3c. Using Axe, RadixUI aria labels and more.
 
 <br></br>
 
