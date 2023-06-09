@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <img alt="project image" title="acessible-blog" src="template.png" width="100%" />
+  <img alt="project image" title="acessible-blog" src="./src/assets/template.png" width="100%" />
 </div>
 
 ## 🚀 Getting started
