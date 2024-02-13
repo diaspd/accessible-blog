@@ -1,25 +1,23 @@
-.header {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-
-  max-width: 1064px;
+.content {
+  max-width: 776px;
   width: 100%;
   margin: 0 auto;
+  
+  padding: 0px 20px;
+}
 
-  padding: 24px 20px;
+.link {
+  color: #fff;
+  margin: .5rem;
 }
 
 .nav a {
   color: #fff;
 }
 
-.content {
-  max-width: 776px;
-  width: 100%;
-  margin: 0 auto;
-  
-  padding: 24px 20px;
+.nav a {
+  margin: 0 16px;
+  padding: 0;
 }
 
 .content p {
@@ -34,11 +32,6 @@
   font-size: 18px;
 }
 
-.link {
-  color: #fff;
-  margin: .5rem;
-}
-
 .page {
   margin: 3rem 3rem;
   background: #202024;
@@ -47,6 +40,8 @@
   border-radius: 5px;
   line-height: 0;
   text-decoration: none;
+
+  cursor: pointer;
 }
 
 .link:hover {
@@ -54,10 +49,13 @@
 }
 
 .footer {
+  max-width: 776px;
+  width: 100%;
+  margin: 0 auto;
+  
   display: flex;
   align-items: center;
-  justify-content: center;
-  margin-top: 10%;
+  justify-content: start;
 }
 
 .footer a {
@@ -70,17 +68,17 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background: #fff;
+  background: #212124;
   padding: 120px;
   border-radius: 5px;
-  color: #222;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  color: #fff
 }
 
 .closeModalButton {
-  background-color: #006E6F;
+  background-color: #880ac4;
   color: #fff;
 
   font-size: 18px;
@@ -89,6 +87,14 @@
   padding: .5rem 2rem;
   border-radius: 5px;
   margin-top: 1rem;
+
+  cursor:pointer;
+}
+
+.modalContent {
+  display: flex;
+  margin-top: 26px;
+  padding-left: 16px;
 }
 
 .button {
@@ -101,11 +107,10 @@
   padding: .5rem 2rem;
   border-radius: 5px;
   margin-top: 1rem;
-
 }
 
 .overlay {
-  background-color: rgba(0, 0, 0, 0.70);
+  background-color: rgba(0, 0, 0, 0.90);
   position: fixed;
   inset: 0;
 }
