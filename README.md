@@ -10,7 +10,11 @@
 ---
 
 <div align="center">
-  <img alt="project image" title="acessible-blog" src="./src/assets/template.png" width="100%" />
+  <img alt="project image" title="acessible-blog image" src="./src/assets/template.png" width="100%" />
+</div>
+
+<div align="center">
+  <img alt="project gif" title="acessible-blog gif" src="./src/assets/template.gif" width="100%" />
 </div>
 
 ## 🚀 Getting started
