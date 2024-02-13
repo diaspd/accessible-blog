@@ -5,7 +5,7 @@ export default class CustomDocument extends Document {
     return (
       <Html lang="pt-Br">
         <Head>
-          <link rel="shortcut icon" type="icon" href="/logo.svg" />
+          <link rel="shortcut icon" type="icon" href="/logo.ico" />
 
           <link rel="preconnect" href="https://fonts.googleapis.com" />
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" /> 
