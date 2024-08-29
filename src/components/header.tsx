@@ -18,7 +18,7 @@ export function Header() {
           <Image loading="eager" src={GithubImg} width={35} alt="Acessar Git hub"/>  
         </a> 
 
-        <a href="https://www.instagram.com/dias_pdr/">
+        <a href="https://www.instagram.com/peedrodr">
           <Image loading="eager" src={InstagramLogo} width={35} alt="Acessar Instagram"/>
         </a>
       </nav>
